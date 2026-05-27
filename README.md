@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Riya Yadav — a Computer Science graduate passionate about building impactful tech solutions across AI, cloud computing, cybersecurity, QA, and full-stack development.<br><br>I enjoy solving real-world problems through scalable and user-focused applications. My experience includes developing cloud-based systems, AI-powered applications, Retrieval-Augmented Generation (RAG) solutions, and gesture-controlled interfaces. I’ve worked with technologies like Python, FastAPI, Django, Docker, PostgreSQL, React, Kubernetes, and modern AI/ML frameworks.<br><br>Some of my notable projects include:<br><br>MotionArt AI: From Gestures to Masterpieces — an AI-powered gesture recognition system enabling touchless PowerPoint control using real-time hand tracking and computer vision.<br>Cloud-Based Cybersecurity Solutions for Inventory Management — built during my internship at IBM, focused on secure cloud-native inventory management using microservices, OAuth 2.0, encryption, and Kubernetes.<br>RAG PDF Question Answering System — a FastAPI and Django-based intelligent document assistant using embeddings, FAISS, Ollama, Sentence Transformers, and Dockerized deployment.<br><br>I also have experience in:<br><br>Manual QA & software testing<br>API testing and debugging<br>Data analytics and dashboard reporting<br>Cloud-native architecture<br>AI-assisted workflows and automation<br><br>Currently, I’m expanding my skills in:<br><br>Generative AI & LLM applications<br>Advanced RAG systems<br>Backend engineering<br>Data analytics<br>Competitive exam preparation alongside professional growth<br><br>I love learning new technologies, building meaningful products, and continuously improving my problem-solving abilities.<br><br>Tech Stack<br>Languages: Python, Java, SQL, JavaScript<br>Frameworks & Tools: FastAPI, Django, React, Docker, Kubernetes<br>AI/ML: FAISS, Sentence Transformers, Ollama, MediaPipe<br>Databases: PostgreSQL<br>Other Skills: QA Testing, API Testing, Cloud Computing, Cybersecurity, Data Analytics, Git & GitHub<br>Current Focus<br><br>Building scalable AI-powered applications while strengthening my software engineering and analytical skills.
 
-<!--
-**GetItGoinn/GetItGoinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-yadav-a147b624a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yadavriya1443@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=GetItGoinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GetItGoinn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GetItGoinn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=GetItGoinn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
